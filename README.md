@@ -2,6 +2,8 @@
 
 A chat interface that visualizes how certain a language model is about each token it generates. Tokens the model is less sure about appear more transparent, giving you an intuitive sense of where the model is confident and where it's guessing.
 
+**Try it live: [ulfaslak.dk/certain](https://ulfaslak.dk/certain)**
+
 Uses the OpenAI API with `logprobs` enabled. Bring your own API key.
 
 ## How it works
